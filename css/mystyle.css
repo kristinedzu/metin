@@ -319,7 +319,7 @@ body {
 .article_header {
     color: black;
     font-family: IM Fell Great Primer;
-    background-image: url(photos/tittle-brush.png);
+    background-image: url(../photos/tittle-brush.png);
     background-repeat: no-repeat;
     padding: 15px;
     margin-left: 50px;
@@ -782,7 +782,7 @@ p {
 .extras_background {
     color: black;
     font-family: IM Fell Great Primer;
-    background-image: url(photos/banner_extras.webp);
+    background-image: url(../photos/banner_extras.webp);
     background-repeat: no-repeat;
     padding: 15px;
     margin-left: 160px;
