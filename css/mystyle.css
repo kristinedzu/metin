@@ -13,7 +13,6 @@ html {
 
 body {
     width: 100%;
-    height: 100%;
     background-image: url(../photos/long_bg_def.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -1051,7 +1050,6 @@ p {
     display: flex;
     justify-content: center;
     padding-top: 50px;
-    padding-bottom: 50px;
     height: 420px;
 }
 
@@ -1090,6 +1088,7 @@ p {
 
 .map-photo {
     width: 400px;
+    padding-bottom: 50px;
 }
 
 .map-section {
