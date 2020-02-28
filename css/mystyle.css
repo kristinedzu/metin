@@ -1039,7 +1039,7 @@ p {
 
 .opacity-box {
     background-color: rgba(255, 255, 255, 0.07);
-    height: 370px;
+    height: 420px;
 }
 
 
@@ -1049,7 +1049,6 @@ p {
     display: flex;
     justify-content: center;
     padding-top: 50px;
-    padding-bottom: 50px;
 }
 
 .numbers {
