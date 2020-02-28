@@ -30,9 +30,10 @@ body {
 
 .face {
     position: absolute;
-    width: 1620px;
+    width: 1920px;
     height: 1080px;
     z-index: 2;
+    padding-right: 100px;
 }
 
 
