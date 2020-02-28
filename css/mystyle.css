@@ -14,7 +14,8 @@ html {
 body {
     width: 100%;
     background-image: url(../photos/long_bg_def.jpg);
-    background-size: cover8 background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
     overflow: scroll;
     overflow-x: hidden;
 
