@@ -30,7 +30,7 @@ body {
 
 .face {
     position: absolute;
-    width: 1920px;
+    width: 100%;
     height: 1080px;
     z-index: 2;
 }
